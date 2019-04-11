@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(237, 237, 237);
+    background-color: rgb(160, 160, 160);
     margin: 0 auto;
 }
 .skole {
@@ -54,7 +54,7 @@ img {
 .info {
     width: 50%;
     margin-left: 25%;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(0, 102, 204);
 }
 
 h1 {
@@ -99,7 +99,7 @@ input[type=text]:focus {
 #nav {
     float: right;
     overflow: hidden;
-    background-color: white;
+    background-color: rgb(0, 102, 204);
     width: 80%;
 }
 
